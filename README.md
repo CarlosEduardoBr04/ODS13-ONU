@@ -25,9 +25,9 @@ This collaborative project delves into the complexities of Sustainable Developme
 
 This project serves as an educational resource, promoting a deeper understanding of critical issues related to climate change. By presenting a holistic view, it aims to inspire awareness and action to achieve a sustainable future.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-- [CarlosEduardoBr04](https://github.com/CarlosEduardoBr04)
+- [CarlosEduardoBr4](https://github.com/CarlosEduardoBr04) 🚀
 - 🚨Couldn't find the GitHub profiles of other contributors. If you are one of them, please message me, and I'll add you immediately🚨
 
 ### Technologies Used 🛠️
