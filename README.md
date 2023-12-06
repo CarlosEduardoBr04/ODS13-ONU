@@ -1,5 +1,3 @@
----
-
 # Projeto: Explorando ODS 13 - Ação Climática 🌍🌱
 
 ## Visão Geral 🚀
@@ -40,5 +38,3 @@ Este projeto serve como um recurso educacional, promovendo uma compreensão mais
 ## Envolva-se 🌐
 
 Contribuições e feedback são bem-vindos! Sinta-se à vontade para interagir com o projeto e juntar-se ao movimento global pela ação climática.
-
----
